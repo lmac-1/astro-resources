@@ -22,10 +22,12 @@ Happy coding!
 - [Simple portfolio site](https://github.com/withastro/astro/tree/main/examples/portfolio)
 - [Hackernews](https://github.com/withastro/astro/tree/main/examples/hackernews)
 
-
 ### Community resources
 - [Astro Tips](https://astro-tips.dev/): Advanced, unusual, experimental, and community-written recipes, tutorials, and quick tips.
 - [Astro Support Squid](https://get.supportsquid.ink/): An open, public Astro support forum and knowledge base outside of the Astro Discord - _not very active_
+
+### Blog posts
+- [Island Architecture in Astro: A example with an interactive pricing calculator](https://medium.com/@ignatovich.dm/island-architecture-in-astro-a-example-with-an-interactive-pricing-calculator-785a218d1902): 9 min read on Medium posted on 13th July 2025
 
 ### Paid courses
 - [Intro to Astro Course by James Q Quick](https://scrimba.com/intro-to-astro-c00ar0fi5u?via=astro): Build your first Astro site with 35 interactive Scrimba lessons, with video and IDE merged into one unique learning platform.
