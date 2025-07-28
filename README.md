@@ -28,6 +28,7 @@ Happy coding!
 
 ### Blog posts
 - [Island Architecture in Astro: A example with an interactive pricing calculator](https://medium.com/@ignatovich.dm/island-architecture-in-astro-a-example-with-an-interactive-pricing-calculator-785a218d1902): 9 min read on Medium posted on 13th July 2025
+- [How to use Astro with a sprinkling of React](https://thenewstack.io/how-to-use-astro-with-a-sprinkling-of-react/): short article written by Paul Scanlon on how he rebuilt his personal website using Astro (rather than just React) posted on 24th October 2023. Good for context for understanding when to use/not use React.
 
 ### Paid courses
 - [Intro to Astro Course by James Q Quick](https://scrimba.com/intro-to-astro-c00ar0fi5u?via=astro): Build your first Astro site with 35 interactive Scrimba lessons, with video and IDE merged into one unique learning platform.
